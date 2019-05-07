@@ -15,3 +15,7 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 ```
+
+```
+curl http://localhost:3000/languages
+```
